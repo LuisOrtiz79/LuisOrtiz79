@@ -18,6 +18,8 @@ Prior to that, I had just received my degree in computer science with a cybersec
 
 # Experience in: `JavaScript`, `MongoDB`, `ReactJS`, `Express`, `NodeJS`, `HTML`, `CSS`
 
+LinkedIn: [LuisOrtiz](www.linkedin.com/in/luisortiz7905)
+
 <!--
 **LuisOrtiz79/LuisOrtiz79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
